@@ -1,1 +1,2 @@
-cd /alx_system_engineering-devops/0x01-shell_basics
+#!/bin/bash
+pwd
